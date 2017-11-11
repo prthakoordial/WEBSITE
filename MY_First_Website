@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My First Document</title>
+</head>
+
+<body style="background-color:red;">
+	<h1>H.O.T & Sons</h1>
+	<h6>Apartment Rentals And Management</h6>
+	<p>Where is it Located</p>
+	<a href = "http://www.schenectady.k12.ny.us/"> SCSD Link </a>
+	<br>
+	<img src="doggo.jpg" alt="SCHOOL STRESS" width = "200" length = "300">
+
+
+</body>
+
+</html>
